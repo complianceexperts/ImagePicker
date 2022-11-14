@@ -7,14 +7,12 @@
   "issue": "",
   "keywords": [],
   "platforms": [
-    "android",
     "ios"
   ],
   "cordova": {
     "id": "cordova-plugin-telerik-imagepicker",
     "platforms": [
       "ios",
-      "android",
       "wp8"
     ]
   },
